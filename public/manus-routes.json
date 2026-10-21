@@ -1,0 +1,15 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/library", "title": "Story Library" },
+    { "path": "/create", "title": "Create Your Story" },
+    { "path": "/interactive/create", "title": "Create Interactive Adventure" },
+    { "path": "/play/:sessionId", "title": "Story Player" },
+    { "path": "/ending/:sessionId", "title": "Ending" },
+    { "path": "/history", "title": "Story History" },
+    { "path": "/settings", "title": "Settings" },
+    { "path": "/studio/review/:draftId", "title": "Review Story Script" },
+    { "path": "/video/:videoId", "title": "Generated Story Video" },
+    { "path": "/videos", "title": "My Videos" }
+  ]
+}
